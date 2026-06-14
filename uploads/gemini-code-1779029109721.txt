@@ -1,0 +1,39 @@
+====================================================================
+FORTIS HEALTHCARE DIAGNOSTIC IMAGING SERVICES
+====================================================================
+PATIENT NAME: Rajesh Kumar             AGE/GENDER: 54 / Male
+UHID / REG NO: FH-2026-884910          DATE: May 17, 2026
+REFERRED BY: Dr. A. K. Sharma, MD      MODALITY: Digital Chest X-Ray (PA View)
+====================================================================
+
+CLINICAL HISTORY:
+Patient presents with chronic cough, progressive shortness of breath, blood-tinged 
+sputum (hemoptysis), high-grade fever (101.8°F), and sharp pleuritic chest pain. 
+History of heavy smoking for 25 years.
+
+DIGITAL RADIOGRAPHIC FINDINGS:
+- LUNGS: There is a dense, irregular, ill-defined radio-opacity/consolidation measuring 
+  approximately 4.2 cm noted in the right upper lobe of the lung, suspicious for a primary 
+  neoplastic mass or severe necrotizing lobar pneumonia. Patchy infiltrates are also visualized 
+  bilaterally in the lower zones consistent with fluid accumulation.
+- PLEURA: Scant pleural effusion noted on the right side. Diaphragmatic contours are flattened.
+- MEDIASTINUM: Widening of the superior mediastinum with visible right hilar lymphadenopathy.
+- TRACHEA: Mild leftward deviation of the thoracic trachea due to mass effect.
+- HEART: Cardiomegaly is present with left ventricular prominence.
+
+IMPRESSION / CONCLUSION:
+1. Large irregular mass/consolidation in the right upper lobe of the lung. Strongly concerning 
+   for primary lung carcinoma or advanced tuberculous consolidation.
+2. Bilateral pulmonary congestion / Scant right pleural effusion.
+3. Mediastinal and right hilar lymphadenopathy.
+4. Cardiomegaly.
+
+ADVICE / RECOMMENDATIONS:
+- Immediate Contrast-Enhanced CT Scan (CECT) of the chest for tumor staging and tissue characterization.
+- Urgent consultation with a Pulmonologist / Oncologist. This represents a high-risk condition requiring immediate medical attention.
+
+--------------------------------------------------------------------
+Report Electronically Signed By:
+Dr. S. Mukhopadhyay, MD (Radiology)
+Senior Consultant Radiologist, Fortis Healthcare
+================================================================----

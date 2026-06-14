@@ -1,0 +1,42 @@
+====================================================================
+APOLLO HOSPITALS INFORMATION MANAGEMENT SYSTEM
+DEPARTMENT OF PATHOLOGY & CORE LABORATORY
+====================================================================
+PATIENT NAME: Mrs. Sunita Rao          AGE/GENDER: 62 / Female
+PATIENT ID: AP-993012-2026             DATE OF SAMPLING: May 17, 2026
+STATUS: Emergency Ward / Critical      REFERRED BY: Dr. Meera Reddy, DM
+====================================================================
+
+TEST PARAMETER               VALUE        REFERENCE RANGE      STATUS
+--------------------------------------------------------------------
+COMPLETE BLOOD COUNT (CBC)
+- Hemoglobin                 8.2 g/dL     12.0 - 15.5          CRITICALLY LOW (Anemia)
+- Total WBC Count            16,400 /µL   4,000 - 11,000       HIGH (Leukocytosis/Infection)
+- Platelet Count             95,000 /µL   150,000 - 450,000    LOW (Thrombocytopenia)
+
+BIOCHEMISTRY & RENAL PROFILE
+- Blood Urea Nitrogen (BUN)  68 mg/dL     7 - 20               SEVERELY HIGH
+- Serum Creatinine           4.1 mg/dL    0.6 - 1.2            CRITICALLY HIGH (Acute Renal Failure)
+- Estimated GFR (eGFR)       14 mL/min    > 90                 Stage 5 Chronic Kidney Disease
+
+CARDIAC BIOMARKERS
+- Cardiac Troponin I (cTnI)  3.8 ng/mL    0.00 - 0.04          CRITICALLY HIGH (Heart Attack)
+- NT-proBNP                  4,200 pg/mL  < 125                EXTREMELY HIGH (Heart Failure)
+
+METABOLIC & GLYCEMIC INDEX
+- Fasting Plasma Glucose     285 mg/dL    70 - 100             EXTREMELY HIGH (Severe Diabetes)
+- HbA1c (Glycated Hgb)       10.4 %       < 5.7                POORLY CONTROLLED
+
+CRITICAL CARE ALERTS & REMARKS:
+- Hematology profile reveals severe microcytic hypochromic anemia alongside acute bacterial leukocytosis.
+- Renal function testing exhibits advanced acute-on-chronic kidney injury (CKD Stage 5 / Uremia).
+- Cardiac panel exhibits massive biomarker leaks showing myocardial injury. Patient is at high risk for acute coronary syndrome, impending acute myocardial infarction, and metabolic decompensation.
+
+SEVERITY CLASSIFICATION: High Risk / Life-Threatening Emergency
+IMMEDIATE MEDICAL ATTENTION NEEDED: YES
+
+--------------------------------------------------------------------
+Report Electronically Signed By:
+Dr. V. Kapoor, MD, DCP
+Head of Department, Laboratory Medicine, Apollo Hospitals
+====================================================================

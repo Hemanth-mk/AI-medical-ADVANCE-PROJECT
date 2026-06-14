@@ -1,0 +1,31 @@
+====================================================================
+APOLLO RADIOLOGY AND NEURO-IMAGING NETWORK
+====================================================================
+PATIENT NAME: Amit Shah                AGE/GENDER: 68 / Male
+REGISTRATION NO: AP-NEURO-44102        DATE: May 17, 2026
+REFERRED FROM: Emergency Dept          MODALITY: Non-Contrast CT (NCCT) Brain
+====================================================================
+
+CLINICAL HISTORY:
+Patient brought to emergency room with sudden-onset weakness in left upper and lower limbs, acute facial drooping, slurred speech (aphasia), altered sensorium, and loss of consciousness for 30 minutes. Chronic history of untreated hypertension.
+
+CT HEAD FINDINGS:
+- BRAIN PARENCHYMA: A large, well-defined hyperdense area (attenuation value +65 to +80 HU) is observed in the right basal ganglia and internal capsule region measuring approximately 4.8 x 3.5 cm. This represents a large acute intracranial hemorrhage / internal bleeding.
+- MASS EFFECT: Significant compression of the right lateral ventricle with a midline shift of approximately 7.5 mm toward the left side. Effacement of surrounding cortical sulci and basal cisterns noted, indicative of severe localized cerebral edema.
+- VENTRICLES: Left lateral ventricle and third ventricle show mild dilatation. No intraventricular extension of blood is clearly identified.
+- POSTERIOR FOSSA: Brainstem and cerebellum appear normal in density. Cerebellar tonsils are intact.
+- BONE STRUCTURES: Calvarium shows normal thickness. No evidence of fractures or bony remodeling.
+
+IMPRESSION / DIAGNOSIS:
+1. Large acute right-sided basal ganglia intracranial hemorrhage (Hemorrhagic Stroke).
+2. Marked mass effect with a midline shift of 7.5 mm and significant surrounding cerebral edema.
+3. Findings represent a critical, life-threatening medical emergency.
+
+RECOMMENDATIONS:
+Immediate neurological and neurosurgical intervention required for intracranial pressure management and surgical decompression evaluation. Keep patient under close hemodynamic monitoring in the Neuro-ICU.
+
+--------------------------------------------------------------------
+Report Electronically Signed By:
+Dr. Anand Joshi, MD, DM (Neuroradiology)
+Chief Neuro-Radiologist, Apollo Comprehensive Stroke Centre
+====================================================================
