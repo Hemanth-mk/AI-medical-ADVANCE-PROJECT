@@ -14,7 +14,7 @@ Google Maps API
 Text-to-Speech (TTS)
 Translation API
 
-Project Complexity: ⭐⭐⭐⭐⭐ (Advanced)
+
 
 Key Highlights:
 
